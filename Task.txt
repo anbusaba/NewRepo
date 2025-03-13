@@ -1,3 +1,4 @@
 1. Create a local repository
 2. Add all your files
 3. Commit
+4. push the data to remote repository
